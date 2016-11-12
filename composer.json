@@ -1,0 +1,14 @@
+{
+  "autoload": {
+    "psr-4": {
+      "App\\": "app"
+    },
+    "files": [
+      "app/helpers.php"
+    ]
+  },
+  "require": {
+    "sastrawi/sastrawi": "^1.2",
+    "symfony/var-dumper": "^3.2"
+  }
+}
